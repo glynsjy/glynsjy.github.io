@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Please Adopt Me: A Dog&#39;s Plead",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -33,7 +33,7 @@
     "versionFirst": "4.8.1",
     "siteFonts": [],
     "uniqCompNum": 74,
-    "versionPublish": "4.8.1",
+    "versionPublish": "4.8.4",
     "screenshot": "screenshot.png"
   },
   "pages": {
